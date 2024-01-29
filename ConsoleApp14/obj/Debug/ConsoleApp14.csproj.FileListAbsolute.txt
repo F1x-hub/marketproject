@@ -1,0 +1,7 @@
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+D:\Programing\324\C#\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
